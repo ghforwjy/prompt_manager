@@ -58,8 +58,5 @@ dist/
 build/
 out/
 
-# Trae IDE
-.trae/
-
 # Pencil backup
 *.pencil.bak
